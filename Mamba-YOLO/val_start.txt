@@ -1,0 +1,1 @@
+python val.py --data_dir /home/undergraduate/coco2017 --save_dir /home/undergraduate/Mambayolo-YOLO/val --model /home/undergraduate/Mamba-YOLO/output_dir/mamba_coco/mambayolo_T_9/weights/best.pt

@@ -1,0 +1,1 @@
+python val.py --data_dir /home/undergraduate/coco2017 --save_dir /home/undergraduate/yolov8/val_s

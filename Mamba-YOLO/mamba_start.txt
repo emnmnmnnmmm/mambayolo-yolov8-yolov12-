@@ -1,0 +1,5 @@
+nohup python mbyolo_train.py --task train \
+--data ultralytics/cfg/datasets/coco.yaml \
+--config "ultralytics/cfg/models/mamba-yolo/Mamba-YOLO-B.yaml" \
+--amp --project "./output_dir/mamba_coco" --name "mambayolo_B_14" \
+> train_log/coco/train14.log 2>&1 &

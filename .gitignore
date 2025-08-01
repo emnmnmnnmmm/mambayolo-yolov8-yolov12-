@@ -1,0 +1,39 @@
+#缓存文件
+__pycache__/
+
+#数据集
+Mamba-YOLO/ultralytics/dataset
+
+# 系统/Shell 配置文件
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.wget-hsts
+
+# 缓存和临时文件目录
+.cache/
+.nv/
+.rubbish/  
+
+# 敏感目录
+.ssh/  
+
+# 环境和工具目录
+.conda/
+miniconda3/
+Miniconda3-py311_24.1.2-0-Linux-x86_64.sh  
+.vscode/
+.vscode-server/
+.dotnet/
+
+# 补充：配置文件和数据集相关
+.config/         
+coco2017/         
+dataset/          
+start.txt         
+test.txt
+
+#训练日志
+Mamba-YOLO/train_log
+yolov8/train_log
